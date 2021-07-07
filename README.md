@@ -1,4 +1,4 @@
-# Syam Software
+# Shyam Software
 
 This is a basic static inforamtive website.
 
